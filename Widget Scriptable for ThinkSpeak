@@ -4,7 +4,7 @@
 // https://thingspeak.com/
 
 // Get widget parameters
-let widgetInputRAW = args.widgetParameter;
+let widgetInputRAW = args.widgetParameter || "2738067|1|results=50|6VBXCSIF3MUSAHMB";;
 
 try {
 	widgetInputRAW.toString();
