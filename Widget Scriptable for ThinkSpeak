@@ -32,7 +32,7 @@ const thingSpeakSettings = {
   // Query parameters
   queryParams: inputArr[2],
 
-  // Query parameters
+  // Read_API_Keys parameters
   readKey: inputArr[3],
 
   // Show the created time
