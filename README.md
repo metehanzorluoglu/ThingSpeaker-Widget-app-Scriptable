@@ -10,3 +10,6 @@ Tap the Add button + add button in the upper-left corner. Then, paste the script
 Enter a new parameter for your channel: CHANNEL_ID|FIELD_ID|results=X|Read_API_Keys
 
 ex: 2738067|1|results=50|6VBXCSIF3MUSAHMB
+
+![3](https://github.com/user-attachments/assets/51728121-4290-4a2d-bdb6-79e5d1fa316f)
+
