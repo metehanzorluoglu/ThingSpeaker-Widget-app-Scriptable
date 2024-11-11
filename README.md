@@ -1,0 +1,1 @@
+# ThingSpeaker-Widget-app-Scriptable
